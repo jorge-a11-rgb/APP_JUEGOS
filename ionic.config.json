@@ -1,0 +1,7 @@
+{
+  "name": "AppVieoJuegos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
